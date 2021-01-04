@@ -1,5 +1,5 @@
 # develop-for-good
-clean and sort application data
+Create a tool to help visualize, filter and match applicants to projects. Current R file helps clean and break up the data.
 
 See the full dashboard at 
 
